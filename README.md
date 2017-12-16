@@ -1,5 +1,6 @@
 # #JavaScript-30!
-30 Day Vanilla JS Coding Challenge
-Build 30 things in 30 days with 30 tutorials
 
-# No Frameworks×No Compilers×No Libraries×No Boilerplate
+**Барабаны**
+При нажатии на кнопку проигрывается звук и меняется стиль
+При повторном нажатии и незавершившемся проигрывании, звук запускается сначала
+После нажатия стиль возвращается
